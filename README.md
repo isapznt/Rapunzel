@@ -1,38 +1,28 @@
-Este projeto é uma página web simples desenvolvida com HTML no Visual Studio Code, com o objetivo de apresentar informações sobre o filme Enrolados, da Disney.
+ 🎬 Página Web: Enrolados 
 
-🛠️ Tecnologias utilizadas
-HTML5
-Visual Studio Code
+Este projeto é uma página web simples feita em **HTML** no **Visual Studio Code**, com o objetivo de apresentar informações sobre o filme **Enrolados**, da Disney.
+ 📌 Descrição
+A página apresenta os principais dados sobre o filme, como ano de produção, direção, duração, classificação indicativa, gênero, país de origem, sinopse e um link para mais informações.
 
-🎯 Objetivo do projeto
-O projeto foi criado para praticar a estrutura básica de um documento HTML, utilizando as principais tags semânticas.
+---
+ ✅ Requisitos atendidos
+A página foi criada com base nos seguintes requisitos:
 
-A página web foi construída seguindo os seguintes requisitos:
- Inserção do título da página com a tag <title>.
+- [x] Inserir o título da página com a tag `<title>`
+- [x] Usar a tag `<h1>` para o nome do filme
+- [x] Adicionar uma imagem do filme com a tag `<img>`
+- [x] Utilizar a tag `<h2>` para listar as informações técnicas:
+  - Ano de produção
+  - Direção
+  - Duração
+  - Classificação
+  - Gênero
+  - País de origem
+- [x] Incluir uma sinopse com a tag `<p>`
+- [x] Adicionar um link com mais informações sobre o filme com a tag `<a>`
 
- Uso da tag <h1> para exibir o nome do filme.
+ 🛠 Tecnologias utilizadas
+- HTML5
+- Visual Studio Code
 
- Inclusão de uma imagem representando o filme.
-
- Exibição das seguintes informações com a tag <
-h2>:
--Ano de produção
--Direção
--Duração
--Classificação
--Gênero
--País de origem
- Adição de uma sinopse utilizando a tag <p>.
- Inserção de um link com mais informações sobre o filme.
-
-📁 Estrutura do projeto
-/enrolados
-│
-├── index.html
-└── /img
-    └── enrolados.jpg
-
-A imagem e o arquivo HTML estão organizados em pastas para manter a estrutura limpa e funcional.
-
-Um link foi adicionado na página para que o usuário possa acessar mais detalhes sobre o filme em um site confiável.
 
