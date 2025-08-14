@@ -8,18 +8,22 @@ Visual Studio Code
 O projeto foi criado para praticar a estrutura básica de um documento HTML, utilizando as principais tags semânticas.
 
 A página web foi construída seguindo os seguintes requisitos:
-✅ Inserção do título da página com a tag <title>.
-✅ Uso da tag <h1> para exibir o nome do filme.
-✅ Inclusão de uma imagem representando o filme.
-✅ Exibição das seguintes informações com a tag <h2>:
+ Inserção do título da página com a tag <title>.
+
+ Uso da tag <h1> para exibir o nome do filme.
+
+ Inclusão de uma imagem representando o filme.
+
+ Exibição das seguintes informações com a tag <
+h2>:
 -Ano de produção
 -Direção
 -Duração
 -Classificação
 -Gênero
 -País de origem
-✅ Adição de uma sinopse utilizando a tag <p>.
-✅ Inserção de um link com mais informações sobre o filme.
+ Adição de uma sinopse utilizando a tag <p>.
+ Inserção de um link com mais informações sobre o filme.
 
 📁 Estrutura do projeto
 /enrolados
